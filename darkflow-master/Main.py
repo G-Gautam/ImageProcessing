@@ -5,8 +5,8 @@ import time
 
 
 option = {
-    'model': 'cfg/yolo.cfg',
-    'load': 'bin/yolov2.weights',
+    'model': 'cfg/tiny-yolo-voc.cfg',
+    'load': 'bin/yolov2-tiny-voc.weights',
     'threshold': 0.2,
     'gpu': 1.0
 }
